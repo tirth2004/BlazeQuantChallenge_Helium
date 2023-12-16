@@ -4,7 +4,7 @@ Our sample token was Helium (HNT)
 
 Our project involves 5 main sections:
 1) Overview
-![overview](assets/overview.png)
+![overview](assets/Overview.png)
 
 2) Fees and revenue
 ![Fees](assets/feesphoto.png)
